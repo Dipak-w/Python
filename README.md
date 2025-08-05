@@ -1,5 +1,7 @@
 #Python
+
 Chapters
+
 The course is divided into several chapters, each focusing on different aspects of Python programming:
 
 Chapter 1: Modules, Comments & pip
